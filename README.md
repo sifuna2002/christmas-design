@@ -1,4 +1,4 @@
-# R
+
 ### Responsive Christmas Website ⛄️
 
 - Responsive Christmas Website Using HTML CSS & JavaScript
